@@ -20,3 +20,4 @@ After, for instance: eg. I get **more** hands on **experience** with [**Markdown
 
 (going to figure out how to insert said image)
     
+![Alt text](/img/IMG_1685.jpg)
