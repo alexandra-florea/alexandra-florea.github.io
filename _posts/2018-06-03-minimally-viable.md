@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minimally Viable, what does it mean for me"
+title: "Minimally Viable: what does that mean for me?"
 date: 2018-06-03
 ---
 
