@@ -4,7 +4,7 @@ title: "Minimally Viable, what does it mean for me"
 date: 2018-06-03
 ---
 
-For me it means chosing what to focus on and knowing when to stop, enjoy the little wins, take a break, and leave the project in a better shape than you found it. So that you have what to come back to in a couple of days, a week, or even a month.
+For me it means chosing what to focus on and knowing when to stop, enjoy the little wins, take a break, and leave the project in a better shape than I found it. So that I have what to come back to in a couple of days, a week, or even a little while.
 
 But let's back up a little. According to [Technopedia](https://www.techopedia.com/definition/27809/minimum-viable-product-mvp):
 > A minimum viable product (MVP) is a development technique in which a new product or website is developed with sufficient features to satisfy early adopters. The final, complete set of features is only designed and developed after considering feedback from the product's initial users.
