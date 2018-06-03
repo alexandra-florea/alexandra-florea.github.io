@@ -15,6 +15,7 @@ Maybe later . . .
 After, for instance: eg. I get more hands on experience with [Markdown](https://daringfireball.net/projects/markdown/), and I'm able to write a blogpost and insert images in it, without a cheatsheet nearby. 
 
 (going to figure out how to insert said image)
-(LE. _The good news_, here's the image, below; _the ugly news_: it's filling more screens than you have._The bad news_? There's no bad news, I just need to learn another thing or two about working with images in markdown.)   
+
+LE. _The good news_, here's the image, below; _the ugly news_: it's filling more screens than you have._The bad news_? There's no bad news, I just need to learn another thing or two about keeping it together online (I mean the website.)
 
 ![Alt text](/img/IMG_1685.jpg)
