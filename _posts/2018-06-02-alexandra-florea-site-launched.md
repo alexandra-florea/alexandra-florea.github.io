@@ -8,7 +8,7 @@ Well. I finally got around it. Putting this little website together was the proj
 
 Neat thing about it - is powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
 
-The **backbone** of this little website is the _very informative tutorial_ by [Jonathan McGlone](http://jmcglone.com/guides/github-pages/). **Logo** made from a combination of [own handwritten font](https://www.calligraphr.com/en/sharing/font_preview/jcEEMdS3iGD/), and a 'books' icon by [Anna Smylie](https://thenounproject.com/search/?q=book%20shelf&i=662227), brought together in [canva](https://www.canva.com/). **Fonts** IBM Plex Serif, Oswald, and Roboto, hand-picked from [Google Fonts](https://fonts.google.com/selection?selection.family=IBM+Plex+Serif:200%7COswald%7CRoboto:300) after falling in love with [Lubalin Graph](http://www.identifont.com/similar?O8), and then accepting that's . . . not a design choice for now.
+The **backbone** of this little website is the _very informative tutorial_ by [Jonathan McGlone](http://jmcglone.com/guides/github-pages/). **Logo** made from a combination of [own handwritten font](https://www.calligraphr.com/en/sharing/font_preview/jcEEMdS3iGD/), and a 'books' icon by [Anna Smylie](https://thenounproject.com/search/?q=book%20shelf&i=662227), brought together in [canva](https://www.canva.com/). **Fonts**: IBM Plex Serif, Oswald, and Roboto, hand-picked from [Google Fonts](https://fonts.google.com/selection?selection.family=IBM+Plex+Serif:200%7COswald%7CRoboto:300) after falling in love with [Lubalin Graph](http://www.identifont.com/similar?O8), and then accepting that's . . . not a design choice for now.
 
 Maybe later . . .
 
