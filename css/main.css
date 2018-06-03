@@ -10,7 +10,6 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    float: left;
     font-family: 'Roboto', sans-serif;
     display: inline;
     margin-right: 20px;
